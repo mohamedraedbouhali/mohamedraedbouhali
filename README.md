@@ -20,7 +20,9 @@ Technologies I master 🚀 :
 🚨🚨🚨  All my projects are in private mode, but if you need to check them, you can contact me at raedbouhali@gmail.com 🚨🚨🚨
 
 
-Featured projects:
+👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻
+
+
 ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
 
 🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰
