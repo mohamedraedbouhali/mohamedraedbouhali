@@ -21,10 +21,10 @@ Technologies I master 🚀 :
 
 
 Featured projects:
-TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
+⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
 
-Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰
+🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰
 
-Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
+🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
 
-Hangman Game: A single-player word-guessing game with score tracking 💀😵
+💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
