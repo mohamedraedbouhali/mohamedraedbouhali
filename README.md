@@ -28,11 +28,13 @@ Technologies I master 🚀 :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
+<br>
+<br>
 🚨🚨🚨  All my projects are in private mode, but if you need to check them, you can contact me at raedbouhali@gmail.com 🚨🚨🚨
 
 
-
+<br>
+<br>
 
 
 👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻
