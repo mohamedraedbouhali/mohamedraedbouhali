@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="unnamed.png" alt="Mohamed Raed Bouhali" width="200" height="200" style="border-radius: 50%;">
+</div>
+
+
+
 I am a Data Science and Artificial Intelligence Engineer 💻with expertise in DevOps and Linux 🐧, holding a Red Hat Certified System Administrator (RHCSA) certification ✅.
  As an Engineering student 🎓 at TEK-UP University, I have gained hands-on experience through internships 💼 at VMD, Progress Engineering, and ALL Circuits. I am proficient in languages like Python, SQL, and Java, and I am passionate about leveraging technology for innovative solutions ✨, with a strong interest in AI, machine learning, and entrepreneurship.
 
