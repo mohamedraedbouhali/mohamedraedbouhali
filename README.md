@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="unnamed.png" alt="Mohamed Raed Bouhali" width="1400" height="450" style="border-radius: 50%;">
+  <img src="unnamed.png" alt="Mohamed Raed Bouhali" width="1400" height="350" style="border-radius: 50%;">
 </div>
 
 <br> 
