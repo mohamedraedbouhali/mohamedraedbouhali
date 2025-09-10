@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="unnamed.png" alt="HELLO WORLD, I'M RAED" width="1400" height="450" 
-       style="border-radius: 15px; /* Softer rounded corners */
-              box-shadow: 0 0 20px 5px rgba(255, 215, 0, 0.6); /* Gold glow */
-              transition: box-shadow 0.3s ease-in-out; /* Smooth hover effect */
-              display: block; margin: 0 auto; max-width: 100%; height: auto; object-fit: cover;"
-       onmouseover="this.style.boxShadow='0 0 30px 10px rgba(255, 215, 0, 0.8)'" 
-       onmouseout="this.style.boxShadow='0 0 20px 5px rgba(255, 215, 0, 0.6)'">
+  <img src="unnamed.png" alt="HELLO WORLD, I'M RAED" width="1400" height="350" >
 </div>
 <br> 
 <br>
