@@ -33,6 +33,7 @@ Technologies I master 🚀 :
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-FFC0CB?style=for-the-badge&logo=databricks&logoColor=black)
 <br>
 <br>
 <h3 align="center">🚨 PROJECT ACCESS AND CONTACT 🚨</h3>
