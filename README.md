@@ -36,8 +36,9 @@ Technologies I master 🚀 :
 <br>
 <br>
 
-
+<center>
 👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻
+<b>
 
 
 ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
@@ -47,3 +48,5 @@ Technologies I master 🚀 :
 🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
 
 💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
+</b>
+</center>
