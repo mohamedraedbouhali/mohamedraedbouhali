@@ -30,8 +30,9 @@ Technologies I master 🚀 :
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <br>
 <br>
-🚨🚨🚨  <h3 align="center">🚨 PROJECT ACCESS AND CONTACT 🚨</h3>🚨🚨🚨
-🚨🚨🚨<p align="center">
+<center>🚨🚨🚨</center>
+  <h3 align="center">🚨 PROJECT ACCESS AND CONTACT 🚨</h3
+p align="center">
     ALL MY PROJECTS ARE CURRENTLY IN PRIVATE MODE. <br>
     HOWEVER, I AM HAPPY TO GRANT ACCESS OR PROVIDE DEMONSTRATIONS UPON REQUEST. <br>
     <br>
