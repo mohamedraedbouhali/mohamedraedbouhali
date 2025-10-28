@@ -35,18 +35,25 @@ Technologies I master 🚀 :
 
 <br>
 <br>
-
-<center>
-👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻
-<b>
-
-
-⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
-
-🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰
-
-🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
-
-💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
-</b>
-</center>
+<div style="
+    text-align: center;
+    background-color: #f6f8fa; /* Light grey background to stand out */
+    padding: 20px;
+    border-radius: 10px; /* Softly rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin: 20px auto; /* Centers the block itself and adds vertical space */
+    max-width: 700px; /* Limits the width of the card */
+">
+    <h3 style="margin-top: 0; color: #0366d6;">👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻</h3>
+    <p style="font-size: 1.1em; line-height: 1.6;">
+        <b>
+            ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
+            <br><br>
+            🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰
+            <br><br>
+            🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
+            <br><br>
+            💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
+        </b>
+    </p>
+</div>
