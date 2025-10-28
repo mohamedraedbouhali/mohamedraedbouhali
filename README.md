@@ -30,14 +30,13 @@ Technologies I master 🚀 :
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <br>
 <br>
-  <h3 align="center">🚨 PROJECT ACCESS AND CONTACT 🚨</h3
-p align="center">
+<h3 align="center">🚨 PROJECT ACCESS AND CONTACT 🚨</h3>
+<p align="center">
     ALL MY PROJECTS ARE CURRENTLY IN PRIVATE MODE. <br>
     HOWEVER, I AM HAPPY TO GRANT ACCESS OR PROVIDE DEMONSTRATIONS UPON REQUEST. <br>
     <br>
-    PLEASE CONTACT ME DIRECTLY AT: raedbouhali@gmail.com</strong>
-</p> 
-
+    PLEASE CONTACT ME DIRECTLY AT: <strong>RAEDBOUHALI@GMAIL.COM</strong>
+</p>
 <br>
 <h3 align="center">Let's Connect & Collaborate! 🤝</h3>
 
