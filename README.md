@@ -32,7 +32,19 @@ Technologies I master 🚀 :
 <br>
 🚨🚨🚨  All my projects are in private mode, but if you need to check them, you can contact me at raedbouhali@gmail.com 🚨🚨🚨
 
+<br>
+<h3 align="center">Let's Connect & Collaborate! 🤝</h3>
 
+<p align="center">
+  Interested in my work or want to see my private repositories? <br>
+  Feel free to reach out, I'm always open to discussing Data Science, DevOps, or new ventures!
+</p>
+
+<p align="center">
+  <a href="mailto:raedbouhali@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+  </p>
 <br>
 <br>
 <div style="
