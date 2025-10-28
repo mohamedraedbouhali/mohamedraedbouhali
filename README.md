@@ -28,6 +28,11 @@ Technologies I master 🚀 :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge&logo=scrumalliance&logoColor=white)
 <br>
 <br>
 <h3 align="center">🚨 PROJECT ACCESS AND CONTACT 🚨</h3>
