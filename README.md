@@ -2,7 +2,7 @@
   <img src="unnamed.png" alt="HELLO WORLD, I'M RAED" width="1400" height="350" >
 </div>
 <br> 
-<br>
+<br> 
 
 
 I am a Data Science and Artificial Intelligence Engineer 💻with expertise in DevOps and Linux 🐧, holding a Red Hat Certified System Administrator (RHCSA) certification ✅.
