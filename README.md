@@ -78,6 +78,9 @@ Technologies I master 🚀 :
             🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
             <br><br>
             💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
-        </b>
+          <br><br> 
+           📊📈 Design and development of a business opportunity management platform 📊📈
+
+        </b>  
     </p>
 </div>
