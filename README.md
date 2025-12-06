@@ -77,7 +77,7 @@ Technologies I master 🚀 :
             <br><br>
             🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨
             <br><br>
-            💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
+              💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
         </b>
     </p>
 </div>
