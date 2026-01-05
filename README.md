@@ -76,7 +76,7 @@ Technologies I master 🚀 :
 ">
     <h3 style="margin-top: 0; color: #0366d6;">👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻</h3>
     <p style="font-size: 1.1em; line-height: 1.6;">
-        <b>
+      
             ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬
             <br><br>
             🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰
@@ -86,7 +86,7 @@ Technologies I master 🚀 :
             💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵
           <br><br> 
            📊📈 Design and development of a business opportunity management platform 📊📈
-
-        </b>  
-    </p>
+ </p>
+        
+   
 </div>
