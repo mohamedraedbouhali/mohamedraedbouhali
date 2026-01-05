@@ -10,7 +10,7 @@ I am a Data Science and Artificial Intelligence Engineer 💻with expertise in D
  <br>
  <br>
 <div align="center">
-  <img src="pic1.png" alt="HELLO WORLD, I'M RAED" width="400" height="350" >
+  <img src="pic.png" alt="HELLO WORLD, I'M RAED" width="400" height="350" >
 </div><br>
 <br>
 <br>
