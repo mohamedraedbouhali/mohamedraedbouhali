@@ -9,7 +9,11 @@ I am a Data Science and Artificial Intelligence Engineer 💻with expertise in D
  As an Engineering student 🎓 at TEK-UP University, I have gained hands-on experience through internships 💼 at VMD, Progress Engineering, and ALL Circuits. I am proficient in languages like Python, SQL, and Java, and I am passionate about leveraging technology for innovative solutions ✨, with a strong interest in AI, machine learning, and entrepreneurship.
  <br>
  <br>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
+ <h3 align="center">
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px"></h3>
+<br>
+<br>
+<br>
 Technologies I master 🚀 :
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
