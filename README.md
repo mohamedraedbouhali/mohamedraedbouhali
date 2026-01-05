@@ -77,15 +77,16 @@ Technologies I master 🚀 :
     <h3 style="margin-top: 0; color: #0366d6;">👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻</h3>
     <p style="font-size: 1.1em; line-height: 1.6;">
       
-      <h3>      ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬   </h3> 
+    
+         ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬   
             
-        <h3>       🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰  </h3> 
+          🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰  
          
-       <h3>        🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨  </h3> 
+            🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨ 
           
-         <h3>      💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵  </h3> 
+           💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵  
          
-        <h3>      📊📈 Design and development of a business opportunity management platform 📊📈  </h3> 
+            📊📈 Design and development of a business opportunity management platform 📊📈  
  </p>
         
    
