@@ -65,25 +65,39 @@ Technologies I master 🚀 :
 <br>
 <br>
 <br>
-<h3 align="left">👨🏻‍💻 Featured Projects</h3>
+<h2 align="left">👨🏻‍💻 Featured Projects</h2>
 
-<blockquote cite="https://github.com/yourusername">
+<blockquote cite="YOUR_LINK_HERE">
   <p align="left">
-    <b>⛱️ TUNISCO</b> <br>
-    <i>Explore the beauty of Tunisia through a comprehensive platform for local establishments.</i>
+    <a href="YOUR_LINK_HERE"><b>⛱️ TUNISCO</b></a> <br>
+    <i>A comprehensive tourism platform for exploring establishments and hidden gems across Tunisia.</i>
   </p>
 </blockquote>
 
-<blockquote cite="https://github.com/yourusername">
+<blockquote cite="YOUR_LINK_HERE">
   <p align="left">
-    <b>🧙‍♂️ Wizard World</b> <br>
-    <i>A deep dive into magic—handling films, books, and games with a secure member area.</i>
+    <a href="YOUR_LINK_HERE"><b>🧙‍♂️ Wizard World</b></a> <br>
+    <i>A multimedia platform for films, books, and games featuring secure user authentication.</i>
   </p>
 </blockquote>
 
-<blockquote cite="https://github.com/yourusername">
+<blockquote cite="YOUR_LINK_HERE">
   <p align="left">
-    <b>🤖 Mars Chatbot</b> <br>
-    <i>Leveraging NLP to build an intelligent, fluid conversational interface.</i>
+    <a href="YOUR_LINK_HERE"><b>🤖 Mars Chatbot</b></a> <br>
+    <i>An intelligent conversational AI system utilizing Natural Language Processing (NLP).</i>
+  </p>
+</blockquote>
+
+<blockquote cite="YOUR_LINK_HERE">
+  <p align="left">
+    <a href="YOUR_LINK_HERE"><b>💀 Hangman Game</b></a> <br>
+    <i>A single-player word-guessing challenge with integrated score tracking and logic.</i>
+  </p>
+</blockquote>
+
+<blockquote cite="YOUR_LINK_HERE">
+  <p align="left">
+    <a href="YOUR_LINK_HERE"><b>📊 Progress Opportunities</b></a> <br>
+    <i>Design and development of a business opportunity management platform for Progress Engineering.</i>
   </p>
 </blockquote>
