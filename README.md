@@ -64,15 +64,52 @@ Technologies I master 🚀 :
 <br>
 <br>
 <br>
-<br>
-### 👨‍💻 Featured Projects
+<br>---
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ⛱️ **TUNISCO** | **Tourism Platform:** A comprehensive guide to exploring establishments across Tunisia. | `React` `Node.js` |
-| 🧙‍♂️ **Wizard World** | **Multimedia Hub:** Platform for films, books, and games with secure user Auth. | `Java` `Spring` |
-| 🤖 **Mars Chatbot** | **AI Agent:** Intelligent conversational system using Natural Language Processing. | `Python` `NLP` |
-| 💀 **Hangman** | **Classic Game:** Single-player word-guessing game with real-time score tracking. | `JavaScript` |
-| 📊 **Biz-Ops Hub** | **Management Tool:** Platform designed for tracking business opportunities and growth. | `.NET` `SQL` |
+## 👨‍💻 Featured Projects Portfolio
+> *A collection of engineering solutions ranging from AI to Full-Stack development.*
+
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td width="50%" style="padding: 10px; border: none;">
+        <div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-top: 4px solid #2ecc71; height: 160px;">
+          <h3 style="margin: 0; color: #2ecc71;">⛱️ TunisCo</h3>
+          <p style="font-size: 0.9em; color: #586069;"><b>Smart Tourism Platform</b></p>
+          <p style="font-size: 0.85em; line-height: 1.4;">A comprehensive ecosystem for exploring Tunisian establishments. Features high-performance search and geolocation filtering.</p>
+        </div>
+      </td>
+      <td width="50%" style="padding: 10px; border: none;">
+        <div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-top: 4px solid #3498db; height: 160px;">
+          <h3 style="margin: 0; color: #3498db;">🧙‍♂️ Wizard World</h3>
+          <p style="font-size: 0.9em; color: #586069;"><b>Multimedia Hub</b></p>
+          <p style="font-size: 0.85em; line-height: 1.4;">Secure platform for film and literature enthusiasts. Implements robust user authentication and content management.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="padding: 10px; border: none;">
+        <div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-top: 4px solid #9b59b6; height: 160px;">
+          <h3 style="margin: 0; color: #9b59b6;">🤖 Mars Chatbot</h3>
+          <p style="font-size: 0.9em; color: #586069;"><b>Conversational AI</b></p>
+          <p style="font-size: 0.85em; line-height: 1.4;">Intelligent AI agent utilizing Natural Language Processing (NLP) to provide seamless user interaction and automated support.</p>
+        </div>
+      </td>
+      <td width="50%" style="padding: 10px; border: none;">
+        <div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-top: 4px solid #e67e22; height: 160px;">
+          <h3 style="margin: 0; color: #e67e22;">📊 Biz-Growth Hub</h3>
+          <p style="font-size: 0.9em; color: #586069;"><b>Opportunity Management</b></p>
+          <p style="font-size: 0.85em; line-height: 1.4;">A specialized B2B dashboard for tracking business pipelines, lead conversions, and analytical reporting.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<p align="center">
+  <i>...plus <b>Hangman Game</b> and various <b>DevOps Automations</b> currently in private staging.</i>
+</p>
 
 ---
