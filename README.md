@@ -65,29 +65,14 @@ Technologies I master 🚀 :
 <br>
 <br>
 <br>
-<div style="
-    text-align: center;
-    background-color: #f6f8fa; /* Light grey background to stand out */
-    padding: 20px;
-    border-radius: 10px; /* Softly rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    margin: 20px auto; /* Centers the block itself and adds vertical space */
-    max-width: 700px; /* Limits the width of the card */
-">
-    <h3 style="margin-top: 0; color: #0366d6;">👨🏻‍💻👩🏻‍💻 Featured projects👨🏻‍💻👩🏻‍💻</h3>
-    <p style="font-size: 1.1em; line-height: 1.6;">
-      
-    
-         ⛱️🛬 TUNISCO: A comprehensive tourism platform for exploring establishments in Tunisia ⛱️🛬   
-            
-          🧙‍♂️🏰 Wizard World: A multimedia platform for films, books and games with user authentication 🧙‍♂️🏰  
-         
-            🤖✨ Mars Chatbot: An intelligent conversational AI system with natural language processing 🤖✨ 
-          
-           💀😵 Hangman Game: A single-player word-guessing game with score tracking 💀😵  
-         
-            📊📈 Design and development of a business opportunity management platform 📊📈  
- </p>
-        
-   
-</div>
+### 👨‍💻 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ⛱️ **TUNISCO** | **Tourism Platform:** A comprehensive guide to exploring establishments across Tunisia. | `React` `Node.js` |
+| 🧙‍♂️ **Wizard World** | **Multimedia Hub:** Platform for films, books, and games with secure user Auth. | `Java` `Spring` |
+| 🤖 **Mars Chatbot** | **AI Agent:** Intelligent conversational system using Natural Language Processing. | `Python` `NLP` |
+| 💀 **Hangman** | **Classic Game:** Single-player word-guessing game with real-time score tracking. | `JavaScript` |
+| 📊 **Biz-Ops Hub** | **Management Tool:** Platform designed for tracking business opportunities and growth. | `.NET` `SQL` |
+
+---
