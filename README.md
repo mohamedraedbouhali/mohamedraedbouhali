@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=🤖+AI+%26+Data+Science+Engineer;⚙️+DevOps+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;🌐+Full-Stack+Developer+(React+%2B+Django);☁️+Cloud+%7C+AWS+%7C+Azure+%7C+Red+Hat;✅+RHCSA+%7C+PCAP%E2%84%A2+%7C+RHSCS+Certified" alt="Typing animation" />
-
 <br/><br/>
 
 <a href="https://portfeliomrbi.vercel.app/" target="_blank">
