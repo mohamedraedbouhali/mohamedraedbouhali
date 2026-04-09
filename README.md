@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
+<a href="file:///C:/Users/LENOVO/Desktop/my%20portfelio/index.html#certificates">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20&text=Mohamed%20Raed%20BOUHALI&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20DevOps%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=twinkling&section=header" width="100%"/>
 
 <br/>
@@ -247,12 +248,10 @@ class RaedBouhali:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedraedbouhali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraedbouhali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraedbouhali&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedraedbouhali&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&radius=10" alt="Activity Graph"/>
 
 <br/><br/>
@@ -680,7 +679,6 @@ Whether it's a **project collaboration**, an **opportunity**, or just a **tech c
 
 <br/><br/>
 
-<!-- Visitor Counter -->
 <img src="https://profile-counter.glitch.me/mohamedraedbouhali/count.svg" alt="Visitor Count"/>
 
 <br/><br/>
