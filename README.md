@@ -678,7 +678,6 @@ Whether it's a **project collaboration**, an **opportunity**, or just a **tech c
 
 <br/><br/>
 
-<img src="https://profile-counter.glitch.me/mohamedraedbouhali/count.svg" alt="Visitor Count"/>
 
 <br/><br/>
 
