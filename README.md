@@ -50,6 +50,15 @@
 
 <br/>
 
+<!-- Private Projects Notice -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒_26%2B_Projects-Private_Repositories-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Private Projects"/>
+</p>
+
+> 🔐 **I've built 26+ projects** spanning AI/ML, full-stack web apps, and DevOps pipelines — all currently kept in **private repositories**. Reach out via email below to request access or a live demo!
+
+<br/>
+
 <!-- Certification Badges Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/RHCSA-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCSA"/>
@@ -402,7 +411,7 @@ Certification Journey  ███████████████████
 
 <div align="center">
 
-> 🔒 **All repositories are currently private.**
+> 🔒 **All repositories are currently private — I have 26+ projects in total.**
 > 📧 Contact **[raedbouhali@gmail.com](mailto:raedbouhali@gmail.com)** to request access or schedule a live demo.
 
 </div>
