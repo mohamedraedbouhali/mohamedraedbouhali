@@ -210,26 +210,7 @@ class RaedBouhali:
 
 <br/>
 
-## GitHub Analytics
 
-<div align="center">
-
-
-<br/><br/>
-
-
-<br/><br/>
-
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedraedbouhali&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-
-
-<br/>
 
 ## Certifications & Credentials
 
