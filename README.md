@@ -214,16 +214,12 @@ class RaedBouhali:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedraedbouhali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6ff0&icon_color=7c6ff0&text_color=e5e5ea&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraedbouhali&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c6ff0&ring=7c6ff0&fire=22d3ee&currStreakLabel=7c6ff0&border_radius=10"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraedbouhali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6ff0&text_color=e5e5ea&border_radius=10"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedraedbouhali&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c6ff0&line=7c6ff0&point=ffffff&area=true&radius=10"/>
 
 <br/><br/>
 
@@ -231,9 +227,7 @@ class RaedBouhali:
 
 </div>
 
-<br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
 
 <br/>
 
