@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=7C6FF0"/></a>&nbsp;
+<a href="https://bouhali-mohamed-raed.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=7C6FF0"/></a>&nbsp;
 <a href="https://github.com/mohamedraedbouhali" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/bouhali-mohamed-raed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
 <a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/></a>&nbsp;
@@ -38,6 +38,7 @@ Email me below to request access or a live demo.
 <img src="https://img.shields.io/badge/PCAP™-Certified-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/EX188-Certified-0D1117?style=flat-square&logo=redhat&logoColor=EE0000"/>&nbsp;
 <img src="https://img.shields.io/badge/INE_ICCA-Certified-0D1117?style=flat-square&logo=ine&logoColor=7C6FF0"/>&nbsp;
+<img src="https://img.shields.io/badge/onSET_English-B2-0D1117?style=flat-square&logo=googletranslate&logoColor=4285F4"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-In_Progress-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>&nbsp;
 <img src="https://img.shields.io/badge/PL--300-In_Progress-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4"/>
 
@@ -58,9 +59,9 @@ class RaedBouhali:
         self.role        = "Data Science & AI Engineer"
         self.location    = "Tunis, Tunisia"
         self.specialties = [
+            "AI / ML & LLM Engineering",
             "Full-Stack Development",
             "DevOps & Cloud Architecture",
-            "Machine Learning & AI",
         ]
 
         self.education = {
@@ -69,19 +70,28 @@ class RaedBouhali:
             "prep_school": "ULT — MPCS (2022–2024)",
         }
 
+        self.human_languages = {
+            "Arabic":  "Native",
+            "English": "B2 (onSET certified)",
+            "French":  "B2",
+            "German":  "B1",
+        }
+
         self.contact = {
             "email":    "raedbouhali@gmail.com",
             "phone":    "+216 26 711 810",
             "linkedin": "bouhali-mohamed-raed",
+            "portfolio":"bouhali-mohamed-raed.vercel.app",
         }
 
     def get_certifications(self):
         return {
             "completed": [
-                "RHCSA    — Red Hat Certified System Administrator  (Jul 2025)",
-                "PCAP™    — Certified Associate Python Programmer   (Jan 2026)",
-                "EX188    — Red Hat Specialist in Containers        (Apr 2026)",
-                "INE ICCA — INE Certified Cloud Associate           (May 2026)",
+                "RHCSA        — Red Hat Certified System Administrator  (Jul 2025)",
+                "PCAP™        — Certified Associate Python Programmer   (Jan 2026)",
+                "EX188        — Red Hat Specialist in Containers        (Apr 2026)",
+                "INE ICCA     — INE Certified Cloud Associate           (May 2026)",
+                "onSET English — B2 Certificate                          (Jun 2026)",
             ],
             "in_progress": [
                 "AWS Certified AI Practitioner",
@@ -94,16 +104,16 @@ class RaedBouhali:
     def get_skills(self):
         return {
             "languages": ["Python", "Java", "JavaScript", "PHP", "C", "SQL"],
-            "ai_ml":     ["TensorFlow", "PyTorch", "Scikit-Learn", "Keras", "NLP"],
+            "ai_ml":     ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost", "LLMs / RAG", "NLP"],
             "web":       ["React.js", "Django", "FastAPI", "Symfony", ".NET", "Node.js"],
             "devops":    ["Docker", "Kubernetes", "Linux", "CI/CD", "Git", "Jenkins"],
             "cloud":     ["AWS", "Microsoft Azure"],
-            "data":      ["Power BI", "Tableau", "PostgreSQL", "MySQL", "Data Mining"],
+            "data":      ["Power BI", "Tableau", "PostgreSQL", "MongoDB", "MySQL", "Data Mining"],
         }
 
     def current_focus(self):
         return [
-            "Building AI-powered applications & LLM integrations",
+            "Agentic RAG & LLM-integrated applications",
             "Cloud-native microservices architectures",
             "Data-driven decision systems",
             "Secure, scalable DevOps pipelines",
@@ -141,7 +151,10 @@ class RaedBouhali:
 <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=337AB7"/>
 <img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=chromatic&logoColor=FF6F61"/>
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5"/>
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF"/>
 <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=spacy&logoColor=09A3D5"/>
@@ -210,7 +223,22 @@ class RaedBouhali:
 
 <br/>
 
+## Human Languages
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arabic-Native-0D1117?style=flat-square&color=10B981"/>&nbsp;
+<img src="https://img.shields.io/badge/English-B2-0D1117?style=flat-square&color=22D3EE"/>&nbsp;
+<img src="https://img.shields.io/badge/French-B2-0D1117?style=flat-square&color=22D3EE"/>&nbsp;
+<img src="https://img.shields.io/badge/German-B1-0D1117?style=flat-square&color=7C6FF0"/>
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
+
+<br/>
 
 ## Certifications & Credentials
 
@@ -226,6 +254,7 @@ class RaedBouhali:
 | ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **PCAP™ — Certified Associate Python Programmer** | Python Institute | Jan 2026 |
 | ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **Red Hat Certified Specialist in Containers (EX188)** | Red Hat | Apr 2026 |
 | ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **INE Certified Cloud Associate (ICCA)** | INE | May 2026 |
+| ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **onSET English Certificate — B2** | onSET | Jun 2026 |
 | ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **AWS Certified AI Practitioner** | Amazon Web Services | 2026 |
 | ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **AWS Certified Data Engineer – Associate** | Amazon Web Services | 2026 |
 | ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **Microsoft PL-300: Power BI Data Analyst** | Microsoft | 2026 |
@@ -234,7 +263,7 @@ class RaedBouhali:
 <br/>
 
 ```
-Certification Journey  ████████████████████░░░░░  80%
+Certification Journey  █████████████████████░░░░  82%
 ```
 
 </div>
@@ -252,6 +281,33 @@ Certification Journey  ███████████████████
 <table>
 <tr>
 <td width="22%" align="center">
+  <img src="https://img.shields.io/badge/EY-AI_Engineer-0D1117?style=flat-square&logo=ey&logoColor=FFE600"/>
+  <br/><br/>
+  <b>2026</b>
+  <br/>Tunis, Tunisia
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Internship-AI%2FLLM-0D1117?style=flat-square&color=7C6FF0"/>
+</td>
+<td width="78%">
+
+### AI Engineer Intern — EY (Ernst & Young)
+
+> Contributed to an Agentic RAG platform (TdR Intelligence) letting users query hundreds of Tender Reference Documents in plain French or English.
+
+- **Built an Agentic RAG pipeline** to search and answer questions across hundreds of Tender Reference Documents (TdR)
+- **Delivered AI-grounded answers** with exact page-level citations and automatic TdR classification
+- **Implemented structure-safe table/bullet reproduction**, aligned with **ISO 42001** AI management standards
+- **Engineered document ingestion** with OCR and layout-aware parsing for scanned and complex PDFs
+
+**Tech Stack:** `Python` `FastAPI` `React` `MongoDB` `ChromaDB` `Groq (LLaMA 3.3 70B)` `BAAI/bge-m3` `PyMuPDF` `RapidOCR/EasyOCR` `JWT`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="22%" align="center">
   <img src="https://img.shields.io/badge/VMD-DevOps-0D1117?style=flat-square&logo=docker&logoColor=7C6FF0"/>
   <br/><br/>
   <b>Aug – Sep 2025</b>
@@ -265,10 +321,10 @@ Certification Journey  ███████████████████
 
 > Streamlined the entire software delivery lifecycle using modern CI/CD practices.
 
-- **Accelerated deployment pipelines** — significantly reduced release cycle time for features, bug fixes, and updates
+- **Accelerated CI/CD pipelines** — reduced deployment time by **45%**, enabling faster release of features and bug fixes
 - **Automated testing integration** to catch bugs early and ensure stable, production-ready builds
 - **Streamlined developer collaboration workflows** enabling more frequent, low-friction code integration
-- **Ensured build consistency** through repeatable, predictable deployments via CI/CD best practices
+- **Improved deployment reliability** through reproducible builds and containerized environments
 
 **Tech Stack:** `Docker` `Kubernetes` `Jenkins` `GitLab CI/CD` `Linux` `Bash Scripting`
 
@@ -292,13 +348,13 @@ Certification Journey  ███████████████████
 
 > Designed and built a complete business opportunity management platform from scratch.
 
-- **Built backend and frontend modules** for managing and tracking business opportunities end-to-end
-- **Implemented authentication**, user management, and advanced data filtering functionalities
+- **Built backend and frontend modules** (Django + React) for managing and tracking business opportunities end-to-end
+- **Implemented secure authentication**, user management, and advanced data filtering functionalities
 - **Defined technical architecture** based on functional analysis and stakeholder requirements
 - **Conducted functional testing**, resolved anomalies, and optimized overall platform performance
 - **Deployed platform** and produced full technical documentation
 
-**Tech Stack:** `Symfony` `PHP` `MySQL` `JavaScript` `HTML/CSS` `Git` `Chart.js` `TCPDF`
+**Tech Stack:** `Django` `React` `Python` `MySQL` `JavaScript` `HTML/CSS` `Git`
 
 </td>
 </tr>
@@ -321,12 +377,11 @@ Certification Journey  ███████████████████
 > Immersed in the complete PCB manufacturing lifecycle from design to delivery.
 
 - **Understood the full manufacturing lifecycle** of electronic boards from design to final assembly
-- **Participated in manual and automated PCB assembly** (CMS and through-hole components)
+- **Participated in manual and automated PCB assembly** (SMT and through-hole components)
 - **Executed verification and quality control tests** on produced electronic boards
-- **Studied industrial standards** (ISO, IPC) related to electronics manufacturing
-- **Observed industrialization and logistics stages** across the full product lifecycle
+- **Applied industrial standards** (ISO, IPC) to ensure high-quality production
 
-**Skills Gained:** `PCB Assembly` `Quality Control` `ISO Standards` `IPC Certification` `Electronics Testing`
+**Skills Gained:** `PCB Assembly` `Quality Control` `ISO Standards` `IPC` `Electronics Testing`
 
 </td>
 </tr>
@@ -350,6 +405,85 @@ Certification Journey  ███████████████████
 <br/>
 
 <details open>
+<summary><h3>EY Agentic RAG — TdR Intelligence</h3></summary>
+<br/>
+
+[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20EY%20Agentic%20RAG%20Project)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=chromatic&logoColor=FF6F61)
+
+> Agentic RAG platform for querying hundreds of Tender Reference Documents (TdR) in French or English — built during my internship at **EY**.
+
+**Key Features:**
+- AI-grounded answers with **exact page-level citations**
+- Automatic **TdR classification** and structure-safe table/bullet reproduction
+- Layout-aware ingestion with OCR for scanned and complex PDFs
+- Aligned with **ISO 42001** AI management standards
+- JWT-secured REST API + React interface
+
+**Tech:** `Python` · `FastAPI` · `React` · `MongoDB` · `ChromaDB` · `Groq (LLaMA 3.3 70B)` · `BAAI/bge-m3` · `PyMuPDF` · `RapidOCR/EasyOCR` · `tiktoken` · `JWT`
+
+</details>
+
+<br/>
+
+<details>
+<summary><h3>CSIS — Criminal Study Intelligent System</h3></summary>
+<br/>
+
+[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20CSIS%20Project)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=337AB7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+
+> AI-powered risk assessment and legal intelligence platform for Tunisian law enforcement and legal researchers.
+
+**Key Features:**
+- Predicts criminal behavior risk and likely crime type from **18 behavioral features** across socio-demographic, family, psychological, and economic data
+- Trained on a **10,000-record** dataset
+- RAG pipeline answering natural-language legal questions over **1,485+ Tunisian law articles**
+- Real-time risk diagnostics and cited legal answers via REST API + interactive dashboard
+
+**Tech:** `Python` · `Scikit-Learn` · `XGBoost` · `FastAPI` · `React` · `JWT/bcrypt` · `TF-IDF (RAG)` · `Groq LLaMA 3.3`
+
+</details>
+
+<br/>
+
+<details>
+<summary><h3>VigorTerra — AI Platform for Smart Agriculture</h3></summary>
+<br/>
+
+[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20VigorTerra%20Project)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=337AB7)
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=0194E2)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+
+> Precision agriculture platform for Tunisian farmers that predicts crop yield, disease risk, and land productivity.
+
+**Key Features:**
+- Correlates soil, climate, and historical agricultural data (**INM**, **FAOSTAT**, **Open-Meteo**)
+- Real-time diagnostics through a REST API and interactive dashboard
+- Experiment tracking and model management with **MLflow**
+- Containerized for reproducible deployment
+
+**Tech:** `Python` · `Scikit-Learn` · `XGBoost` · `FastAPI` · `React` · `Docker` · `MLflow` · `Pandas`
+
+</details>
+
+<br/>
+
+<details>
 <summary><h3>TUNISCO — Tunisia Tourism Platform</h3></summary>
 <br/>
 
@@ -392,15 +526,15 @@ Certification Journey  ███████████████████
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 
-> A full-stack digital companion and e-commerce platform for Harry Potter fans — thematic design meets industry-standard engineering.
+> A full-stack digital companion and e-commerce platform for Harry Potter fans, featuring an AI agent powered by the Grok API — thematic design meets industry-standard engineering.
 
 **Key Features:**
 - Decoupled architecture: Django REST + React.js + PostgreSQL
-- Custom thematic UI with Hogwarts house-inspired palettes
+- Custom Hogwarts house-inspired thematic UI
 - JWT authentication and encrypted user storage
-- E-commerce: wishlist, favorites, cart, personalized recommendations
-- AI-powered recommendations based on user preferences
-- Real-time notifications via WebSockets
+- E-commerce: shop, wishlist, favorites, cart, personalized recommendations
+- **AI agent powered by the Grok API**
+- In-site articles and games, real-time notifications via WebSockets
 
 **Technical Highlights:**
 | Metric | Result |
@@ -450,8 +584,8 @@ Certification Journey  ███████████████████
 
 [![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20Progress%20Opportunities%20Project)
 &nbsp;
-![Symfony](https://img.shields.io/badge/Symfony-0D1117?style=flat-square&logo=symfony&logoColor=E5E5E5)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=0C4B33)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Chart.js](https://img.shields.io/badge/Chart.js-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384)
 
@@ -553,6 +687,20 @@ Design Patterns: `Strategy` `Factory` `Singleton` | Code Coverage: **> 85%** | T
   <br/><i>2021 – 2022</i>
 </td>
 </tr>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Volunteer-AVSPC-0D1117?style=flat-square&color=DC143C"/>
+  <br/><b>Civil Protection (AVSPC)</b>
+  <br/><i>2015 – 2019</i>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Volunteer-Tunisia_Charity-0D1117?style=flat-square&color=FF8C00"/>
+  <br/><b>Tunisia Charity</b>
+  <br/><i>2016 – 2017</i>
+</td>
+<td align="center" width="25%"></td>
+<td align="center" width="25%"></td>
+</tr>
 </table>
 
 </div>
@@ -577,7 +725,7 @@ Whether it's a **project collaboration**, an **opportunity**, or just a **tech c
 
 <a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/bouhali-mohamed-raed/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
-<a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=7C6FF0"/></a>&nbsp;
+<a href="https://bouhali-mohamed-raed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=7C6FF0"/></a>&nbsp;
 <a href="tel:+21626711810"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
 
 <br/><br/>
