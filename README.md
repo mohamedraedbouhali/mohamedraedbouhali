@@ -1,779 +1,126 @@
-<div align="center">
+<h1 align="center">Hi, I'm Mohamed Raed Bouhali 👋</h1>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24&text=Mohamed%20Raed%20BOUHALI&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20AI%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn&section=header" width="100%"/>
+<p align="center">
+  <b>Data Science & AI Student @ TEK-UP University</b><br>
+  Full-stack development · Machine Learning · DevOps · Cloud
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://bouhali-mohamed-raed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E5E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/bouhali-mohamed-raed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7C6FF0&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+profile+%F0%9F%91%8B;Building+AI+solutions+%26+scalable+systems;Certified+%C2%B7+Driven+%C2%B7+Always+learning" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://bouhali-mohamed-raed.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=7C6FF0"/></a>&nbsp;
-<a href="https://github.com/mohamedraedbouhali" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/bouhali-mohamed-raed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
-<a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/></a>&nbsp;
-<a href="tel:+21626711810"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=25D366"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mohamedraedbouhali&style=flat-square&color=7C6FF0&label=Profile+Views&labelColor=0D1117&abbreviated=true"/>&nbsp;
-<img src="https://img.shields.io/github/followers/mohamedraedbouhali?style=flat-square&color=7C6FF0&labelColor=0D1117&label=Followers&logo=github"/>&nbsp;
-<img src="https://img.shields.io/github/stars/mohamedraedbouhali?style=flat-square&color=7C6FF0&labelColor=0D1117&label=Total+Stars&logo=github"/>
-
-<br/><br/>
-
-<table>
-<tr><td align="center">
-
-🔒 &nbsp;**26+ projects built** — spanning AI/ML, full-stack web apps, and DevOps pipelines — currently kept in **private repositories**.
-Email me below to request access or a live demo.
-
-</td></tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/RHCSA-Certified-0D1117?style=flat-square&logo=redhat&logoColor=EE0000"/>&nbsp;
-<img src="https://img.shields.io/badge/PCAP™-Certified-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>&nbsp;
-<img src="https://img.shields.io/badge/EX188-Certified-0D1117?style=flat-square&logo=redhat&logoColor=EE0000"/>&nbsp;
-<img src="https://img.shields.io/badge/INE_ICCA-Certified-0D1117?style=flat-square&logo=ine&logoColor=7C6FF0"/>&nbsp;
-<img src="https://img.shields.io/badge/onSET_English-B2-0D1117?style=flat-square&logo=googletranslate&logoColor=4285F4"/>&nbsp;
-<img src="https://img.shields.io/badge/AWS-In_Progress-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>&nbsp;
-<img src="https://img.shields.io/badge/PL--300-In_Progress-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/>
-
-</div>
-
-<br/>
+---
 
 ## About Me
 
-```python
-class RaedBouhali:
-    def __init__(self):
-        self.name        = "Mohamed Raed Bouhali"
-        self.role        = "Data Science & AI Engineer"
-        self.location    = "Tunis, Tunisia"
-        self.specialties = [
-            "AI / ML & LLM Engineering",
-            "Full-Stack Development",
-            "DevOps & Cloud Architecture",
-        ]
+Certified Data Science and AI student proficient in full-stack development (React, Django, JavaScript), DevOps (Docker, Linux), machine learning, and cloud platforms (AWS, Azure). Red Hat, PCAP, and ICCA certified, with hands-on internship experience at EY and strong leadership through IEEE and volunteer work. I build clean, impactful, and scalable technology solutions.
 
-        self.education = {
-            "university":  "TEK-UP University",
-            "degree":      "Data Science & AI Engineering",
-            "prep_school": "ULT — MPCS (2022–2024)",
-        }
+- 🔭 Currently working on **AI document intelligence** (RAG + vision-language OCR) at **EY**
+- 🌱 Deepening my skills in **AWS ML/Data Engineering** and **AI governance (ISO/IEC 42001)**
+- 🗣️ Arabic (native) · English (B2) · French (B2) · German (B1)
 
-        self.human_languages = {
-            "Arabic":  "Native",
-            "English": "B2 (onSET certified)",
-            "French":  "B2",
-            "German":  "B1",
-        }
+---
 
-        self.contact = {
-            "email":    "raedbouhali@gmail.com",
-            "phone":    "+216 26 711 810",
-            "linkedin": "bouhali-mohamed-raed",
-            "portfolio":"bouhali-mohamed-raed.vercel.app",
-        }
-
-    def get_certifications(self):
-        return {
-            "completed": [
-                "RHCSA        — Red Hat Certified System Administrator  (Jul 2025)",
-                "PCAP™        — Certified Associate Python Programmer   (Jan 2026)",
-                "EX188        — Red Hat Specialist in Containers        (Apr 2026)",
-                "INE ICCA     — INE Certified Cloud Associate           (May 2026)",
-                "onSET English — B2 Certificate                          (Jun 2026)",
-            ],
-            "in_progress": [
-                "AWS Certified AI Practitioner",
-                "AWS Certified Data Engineer – Associate",
-                "Microsoft PL-300 Power BI Data Analyst",
-                "EJDS INE",
-            ],
-        }
-
-    def get_skills(self):
-        return {
-            "languages": ["Python", "Java", "JavaScript", "PHP", "C", "SQL"],
-            "ai_ml":     ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost", "LLMs / RAG", "NLP"],
-            "web":       ["React.js", "Django", "FastAPI", "Symfony", ".NET", "Node.js"],
-            "devops":    ["Docker", "Kubernetes", "Linux", "CI/CD", "Git", "Jenkins"],
-            "cloud":     ["AWS", "Microsoft Azure"],
-            "data":      ["Power BI", "Tableau", "PostgreSQL", "MongoDB", "MySQL", "Data Mining"],
-        }
-
-    def current_focus(self):
-        return [
-            "Agentic RAG & LLM-integrated applications",
-            "Cloud-native microservices architectures",
-            "Data-driven decision systems",
-            "Secure, scalable DevOps pipelines",
-        ]
-
-    def motto(self):
-        return "Delivering clean, impactful, and scalable solutions."
-```
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 
-<br/><br/>
-
-**AI & Machine Learning**
-
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=337AB7"/>
-<img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=chromatic&logoColor=FF6F61"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=spacy&logoColor=09A3D5"/>
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-
-<br/><br/>
-
-**Web Development & Frameworks**
-
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=0C4B33"/>
-<img src="https://img.shields.io/badge/Django_REST-0D1117?style=flat-square&logo=django&logoColor=A30000"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Symfony-0D1117?style=flat-square&logo=symfony&logoColor=E5E5E5"/>
-<img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=07405E"/>
-
-<br/><br/>
+**ML / AI**
+![PyTorch](https://img.shields.io/badge/Vision--Language%20Models-EE4C2C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-2E5E8C?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 **DevOps & Cloud**
-
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Red_Hat-0D1117?style=flat-square&logo=redhat&logoColor=EE0000"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939"/>
-
-<br/><br/>
-
-**Data Analytics & Visualization**
-
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=E97627"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=11557C"/>
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=65B0E5"/>
-
-<br/><br/>
-
-**Tools & IDEs**
-
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/PyCharm-0D1117?style=flat-square&logo=pycharm&logoColor=21D789"/>
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Trello-0D1117?style=flat-square&logo=trello&logoColor=0052CC"/>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Human Languages
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Arabic-Native-0D1117?style=flat-square&color=10B981"/>&nbsp;
-<img src="https://img.shields.io/badge/English-B2-0D1117?style=flat-square&color=22D3EE"/>&nbsp;
-<img src="https://img.shields.io/badge/French-B2-0D1117?style=flat-square&color=22D3EE"/>&nbsp;
-<img src="https://img.shields.io/badge/German-B1-0D1117?style=flat-square&color=7C6FF0"/>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Certifications & Credentials
-
-<div align="center">
-
-> Continuous learning is the foundation of innovation.
-
-<br/>
-
-| Status | Certification | Issuer | Date |
-|:---:|:---|:---|:---:|
-| ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **RHCSA — Red Hat Certified System Administrator** | Red Hat | Jul 2025 |
-| ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **PCAP™ — Certified Associate Python Programmer** | Python Institute | Jan 2026 |
-| ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **Red Hat Certified Specialist in Containers (EX188)** | Red Hat | Apr 2026 |
-| ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **INE Certified Cloud Associate (ICCA)** | INE | May 2026 |
-| ![done](https://img.shields.io/badge/DONE-0D1117?style=flat-square&labelColor=0D1117&color=10B981) | **onSET English Certificate — B2** | onSET | Jun 2026 |
-| ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **AWS Certified AI Practitioner** | Amazon Web Services | 2026 |
-| ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **AWS Certified Data Engineer – Associate** | Amazon Web Services | 2026 |
-| ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **Microsoft PL-300: Power BI Data Analyst** | Microsoft | 2026 |
-| ![wip](https://img.shields.io/badge/WIP-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE) | **EJDS — INE** | INE | 2026 |
-
-<br/>
-
-```
-Certification Journey  █████████████████████░░░░  82%
-```
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Professional Experience
-
-<br/>
-
-<table>
-<tr>
-<td width="22%" align="center">
-  <img src="https://img.shields.io/badge/EY-AI_Engineer-0D1117?style=flat-square&logo=ey&logoColor=FFE600"/>
-  <br/><br/>
-  <b>2026</b>
-  <br/>Tunis, Tunisia
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Internship-AI%2FLLM-0D1117?style=flat-square&color=7C6FF0"/>
-</td>
-<td width="78%">
-
-### AI Engineer Intern — EY (Ernst & Young)
-
-> Contributed to an Agentic RAG platform (TdR Intelligence) letting users query hundreds of Tender Reference Documents in plain French or English.
-
-- **Built an Agentic RAG pipeline** to search and answer questions across hundreds of Tender Reference Documents (TdR)
-- **Delivered AI-grounded answers** with exact page-level citations and automatic TdR classification
-- **Implemented structure-safe table/bullet reproduction**, aligned with **ISO 42001** AI management standards
-- **Engineered document ingestion** with OCR and layout-aware parsing for scanned and complex PDFs
-
-**Tech Stack:** `Python` `FastAPI` `React` `MongoDB` `ChromaDB` `Groq (LLaMA 3.3 70B)` `BAAI/bge-m3` `PyMuPDF` `RapidOCR/EasyOCR` `JWT`
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="22%" align="center">
-  <img src="https://img.shields.io/badge/VMD-DevOps-0D1117?style=flat-square&logo=docker&logoColor=7C6FF0"/>
-  <br/><br/>
-  <b>Aug – Sep 2025</b>
-  <br/>Tunis, Tunisia
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Internship-DevOps-0D1117?style=flat-square&color=7C6FF0"/>
-</td>
-<td width="78%">
-
-### DevOps Intern — VMD
-
-> Streamlined the entire software delivery lifecycle using modern CI/CD practices.
-
-- **Accelerated CI/CD pipelines** — reduced deployment time by **45%**, enabling faster release of features and bug fixes
-- **Automated testing integration** to catch bugs early and ensure stable, production-ready builds
-- **Streamlined developer collaboration workflows** enabling more frequent, low-friction code integration
-- **Improved deployment reliability** through reproducible builds and containerized environments
-
-**Tech Stack:** `Docker` `Kubernetes` `Jenkins` `GitLab CI/CD` `Linux` `Bash Scripting`
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="22%" align="center">
-  <img src="https://img.shields.io/badge/Progress-Full--Stack-0D1117?style=flat-square&logo=symfony&logoColor=7C6FF0"/>
-  <br/><br/>
-  <b>Jul – Aug 2025</b>
-  <br/>Ariana, Tunisia
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Internship-FullStack-0D1117?style=flat-square&color=7C6FF0"/>
-</td>
-<td width="78%">
-
-### Full-Stack Developer Intern — Progress Engineering
-
-> Designed and built a complete business opportunity management platform from scratch.
-
-- **Built backend and frontend modules** (Django + React) for managing and tracking business opportunities end-to-end
-- **Implemented secure authentication**, user management, and advanced data filtering functionalities
-- **Defined technical architecture** based on functional analysis and stakeholder requirements
-- **Conducted functional testing**, resolved anomalies, and optimized overall platform performance
-- **Deployed platform** and produced full technical documentation
-
-**Tech Stack:** `Django` `React` `Python` `MySQL` `JavaScript` `HTML/CSS` `Git`
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="22%" align="center">
-  <img src="https://img.shields.io/badge/ALL_Circuits-Electronics-0D1117?style=flat-square&logo=electronbuilder&logoColor=7C6FF0"/>
-  <br/><br/>
-  <b>Jul – Aug 2024</b>
-  <br/>Ben Arous, Tunisia
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Internship-Electronics-0D1117?style=flat-square&color=7C6FF0"/>
-</td>
-<td width="78%">
-
-### Electronics Intern — ALL Circuits
-
-> Immersed in the complete PCB manufacturing lifecycle from design to delivery.
-
-- **Understood the full manufacturing lifecycle** of electronic boards from design to final assembly
-- **Participated in manual and automated PCB assembly** (SMT and through-hole components)
-- **Executed verification and quality control tests** on produced electronic boards
-- **Applied industrial standards** (ISO, IPC) to ensure high-quality production
-
-**Skills Gained:** `PCB Assembly` `Quality Control` `ISO Standards` `IPC` `Electronics Testing`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Featured Projects
-
-<div align="center">
-
-> **All repositories are currently private — 26+ projects in total.**
-> Contact **[raedbouhali@gmail.com](mailto:raedbouhali@gmail.com)** to request access or schedule a live demo.
-
-</div>
-
-<br/>
-
-<details open>
-<summary><h3>EY Agentic RAG — TdR Intelligence</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20EY%20Agentic%20RAG%20Project)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=chromatic&logoColor=FF6F61)
-
-> Agentic RAG platform for querying hundreds of Tender Reference Documents (TdR) in French or English — built during my internship at **EY**.
-
-**Key Features:**
-- AI-grounded answers with **exact page-level citations**
-- Automatic **TdR classification** and structure-safe table/bullet reproduction
-- Layout-aware ingestion with OCR for scanned and complex PDFs
-- Aligned with **ISO 42001** AI management standards
-- JWT-secured REST API + React interface
-
-**Tech:** `Python` · `FastAPI` · `React` · `MongoDB` · `ChromaDB` · `Groq (LLaMA 3.3 70B)` · `BAAI/bge-m3` · `PyMuPDF` · `RapidOCR/EasyOCR` · `tiktoken` · `JWT`
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>CSIS — Criminal Study Intelligent System</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20CSIS%20Project)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=337AB7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-
-> AI-powered risk assessment and legal intelligence platform for Tunisian law enforcement and legal researchers.
-
-**Key Features:**
-- Predicts criminal behavior risk and likely crime type from **18 behavioral features** across socio-demographic, family, psychological, and economic data
-- Trained on a **10,000-record** dataset
-- RAG pipeline answering natural-language legal questions over **1,485+ Tunisian law articles**
-- Real-time risk diagnostics and cited legal answers via REST API + interactive dashboard
-
-**Tech:** `Python` · `Scikit-Learn` · `XGBoost` · `FastAPI` · `React` · `JWT/bcrypt` · `TF-IDF (RAG)` · `Groq LLaMA 3.3`
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>VigorTerra — AI Platform for Smart Agriculture</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20VigorTerra%20Project)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=337AB7)
-![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=0194E2)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-
-> Precision agriculture platform for Tunisian farmers that predicts crop yield, disease risk, and land productivity.
-
-**Key Features:**
-- Correlates soil, climate, and historical agricultural data (**INM**, **FAOSTAT**, **Open-Meteo**)
-- Real-time diagnostics through a REST API and interactive dashboard
-- Experiment tracking and model management with **MLflow**
-- Containerized for reproducible deployment
-
-**Tech:** `Python` · `Scikit-Learn` · `XGBoost` · `FastAPI` · `React` · `Docker` · `MLflow` · `Pandas`
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>TUNISCO — Tunisia Tourism Platform</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20TUNISCO%20Project)
-&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
-![Symfony](https://img.shields.io/badge/Symfony-0D1117?style=flat-square&logo=symfony&logoColor=E5E5E5)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-> A comprehensive tourism discovery platform showcasing Tunisia's most beloved and hidden destinations — built with modern web technologies and user-centric design.
-
-**Key Features:**
-- Interactive exploration of hotels, restaurants, events, and cultural sites across Tunisia
-- Advanced search and filtering with geolocation support
-- User reviews, ratings, and curated travel itineraries
-- Secure authentication and role-based access
-- Fully responsive, mobile-first design
-- Multi-language support (Arabic, French, English)
-
-**Impact:**
-| Metric | Result |
-|--------|--------|
-| Tourist engagement | ↑ **40%** via personalized recommendations |
-| Search time | ↓ **60%** with optimized filtering |
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>Wizard World — Multimedia Entertainment Platform</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20Wizard%20World%20Project)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django_REST-0D1117?style=flat-square&logo=django&logoColor=0C4B33)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-
-> A full-stack digital companion and e-commerce platform for Harry Potter fans, featuring an AI agent powered by the Grok API — thematic design meets industry-standard engineering.
-
-**Key Features:**
-- Decoupled architecture: Django REST + React.js + PostgreSQL
-- Custom Hogwarts house-inspired thematic UI
-- JWT authentication and encrypted user storage
-- E-commerce: shop, wishlist, favorites, cart, personalized recommendations
-- **AI agent powered by the Grok API**
-- In-site articles and games, real-time notifications via WebSockets
-
-**Technical Highlights:**
-| Metric | Result |
-|--------|--------|
-| API response time | **< 100ms** |
-| Auth method | JWT + Sessions |
-| Deployment | Containerized (Docker) |
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>AI Conversational Chatbot — Generative AI</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20AI%20Chatbot%20Project)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=spacy&logoColor=09A3D5)
-
-> An AI-powered conversational agent using transformer architectures for natural text and voice dialogue.
-
-**Key Features:**
-- Transformer-based seq2seq model for NLU
-- Text and voice interaction with speech recognition
-- Context-aware conversations (15+ dialogue turns)
-- REST API backend with clean web interface
-
-**Performance Metrics:**
-| Metric | Score |
-|--------|-------|
-| Response accuracy | **92%** |
-| Avg response time | **< 500ms** |
-| User satisfaction | **4.6 / 5** |
-| Max dialogue turns | **15+** |
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>Progress Opportunities — Business Management Platform</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20Progress%20Opportunities%20Project)
-&nbsp;
-![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=0C4B33)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Chart.js](https://img.shields.io/badge/Chart.js-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384)
-
-> Built during internship at Progress Engineering — tracking commercial opportunities from lead to close.
-
-**Key Features:**
-- Full lifecycle management of leads and commercial pipeline
-- KPI dashboard with conversion rates and visual analytics
-- Notification system for follow-ups and deadlines
-- Role-based access: Admin · Manager · Sales Agent
-- Export to PDF and Excel
-
-**Business Impact:**
-| Metric | Result |
-|--------|--------|
-| Sales team productivity | ↑ **35%** |
-| Opportunity tracking time | ↓ **50%** |
-
-</details>
-
-<br/>
-
-<details>
-<summary><h3>Hangman Game — Console Word Challenge</h3></summary>
-<br/>
-
-[![Request Access](https://img.shields.io/badge/Request_Access-0D1117?style=flat-square&logo=github&logoColor=7C6FF0)](mailto:raedbouhali@gmail.com?subject=Access%20Request:%20Hangman%20Game%20Project)
-&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![OOP](https://img.shields.io/badge/OOP-Design-0D1117?style=flat-square&color=10B981)
-![JUnit](https://img.shields.io/badge/JUnit-0D1117?style=flat-square&logo=junit5&logoColor=25A162)
-
-> Polished console-based Hangman in Java with full OOP design, demonstrating clean code and SOLID principles.
-
-**Key Features:**
-- Complete game logic with input validation and state tracking
-- Categorized wordbank with multiple difficulty levels
-- Real-time score tracking and persistent leaderboard
-- ASCII art visualization
-- File I/O data persistence
-
-**Technical Highlights:**
-Design Patterns: `Strategy` `Factory` `Singleton` | Code Coverage: **> 85%** | Testing: JUnit
-
-</details>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Leadership & Community Involvement
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Treasurer-IEEE-0D1117?style=flat-square&color=00629B"/>
-  <br/><b>IEEE TEK-UP</b>
-  <br/><i>2025 – Present</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Member-Securinets-0D1117?style=flat-square&color=E63946"/>
-  <br/><b>Securinets Tekup</b>
-  <br/><i>2024 – Present</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Member-EdSoc-0D1117?style=flat-square&color=00629B"/>
-  <br/><b>IEEE Education Society</b>
-  <br/><i>2024 – Present</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Volunteer-Red_Crescent-0D1117?style=flat-square&color=DC143C"/>
-  <br/><b>Tunisian Red Crescent</b>
-  <br/><i>2022 – 2024</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Leader-Scouts-0D1117?style=flat-square&color=228B22"/>
-  <br/><b>Tunisian Scouts</b>
-  <br/><i>2012 – 2022</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Volunteer-4C-0D1117?style=flat-square&color=4169E1"/>
-  <br/><b>4C ISTMT</b>
-  <br/><i>2021 – 2022</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Volunteer-IDH-0D1117?style=flat-square&color=32CD32"/>
-  <br/><b>IDH</b>
-  <br/><i>2021 – 2022</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Member-INJAZ-0D1117?style=flat-square&color=FF8C00"/>
-  <br/><b>INJAZ Tunisia</b>
-  <br/><i>2021 – 2022</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Volunteer-AVSPC-0D1117?style=flat-square&color=DC143C"/>
-  <br/><b>Civil Protection (AVSPC)</b>
-  <br/><i>2015 – 2019</i>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Volunteer-Tunisia_Charity-0D1117?style=flat-square&color=FF8C00"/>
-  <br/><b>Tunisia Charity</b>
-  <br/><i>2016 – 2017</i>
-</td>
-<td align="center" width="25%"></td>
-<td align="center" width="25%"></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=3" width="100%"/></div>
-
-<br/>
-
-## Let's Connect & Collaborate
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7C6FF0&center=true&vCenter=true&width=650&lines=Always+open+to+new+opportunities;Let's+build+something+amazing+together;Interested+in+AI%2C+Data%2C+or+DevOps%3F;Feel+free+to+reach+out" alt="Contact CTA"/>
-
-<br/><br/>
-
-Whether it's a **project collaboration**, an **opportunity**, or just a **tech chat** — I'd love to hear from you.
-
-<br/>
-
-<a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/bouhali-mohamed-raed/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
-<a href="https://bouhali-mohamed-raed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=7C6FF0"/></a>&nbsp;
-<a href="tel:+21626711810"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
-
-<br/><br/>
-
-### Current Availability
-
-<table align="center">
-<tr>
-<td align="center">✅ <b>Open to Full-Time Roles</b></td>
-<td align="center">✅ <b>Available for Freelance</b></td>
-<td align="center">✅ <b>Open to Collaborations</b></td>
-</tr>
-</table>
-
-<br/>
-
-### Areas of Interest
-
-```
-AI & Machine Learning    Cloud Architecture     Data Engineering
-Full-Stack Development   DevOps & Automation    Startup Ventures
-Cybersecurity            MLOps & LLMOps         Open Source
-```
-
-</div>
-
-<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### ⭐ If you find my work interesting, consider giving a star to my repositories
+### 🔎 EY Intelligent OCR — *Multilingual Document Intelligence*
+OCR platform using vision-language models to extract text from low-quality scanned documents in French, English, and Arabic — including mixed-language and right-to-left content. Runs **100% offline on a local GPU** for confidential documents, with adaptive image preprocessing (deskew, denoise, thresholding), VLM post-correction, layout-preserving extraction, per-user document history, and CER/WER benchmarking against a classical OCR baseline.
+> **Stack:** Python · FastAPI · React (Vite) · MongoDB · Ollama (Qwen3-VL) · Groq (Llama 4 Vision) · OpenCV · Pillow · PyMuPDF · Streamlit · JWT
 
-<br/>
+### 🧠 EY Agentic RAG — *TdR Intelligence*
+RAG platform for querying hundreds of Tender Reference Documents (TdR) in French or English. Returns AI-grounded answers with **exact page-level citations**, automatic TdR classification, and structure-safe table/bullet reproduction — aligned with **ISO/IEC 42001** AI management standards.
+> **Stack:** Python · FastAPI · React · MongoDB · ChromaDB · Groq (LLaMA 3.3 70B) · BAAI/bge-m3 · PyMuPDF/pymupdf4llm · RapidOCR/EasyOCR · tiktoken · JWT
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+### ⚖️ CSIS — *Criminal Study Intelligent System*
+AI-powered risk assessment and legal intelligence platform for law enforcement and legal researchers. Predicts criminal-behavior risk and likely crime type across **18 behavioral features** from a 10,000-record dataset, and answers natural-language legal questions via a RAG pipeline over **1,485+ Tunisian law articles** — delivering real-time diagnostics and cited answers through a REST API and dashboard.
+> **Stack:** Python · scikit-learn · XGBoost · FastAPI · React · JWT/bcrypt · TF-IDF (RAG) · Groq (LLaMA 3.3)
 
-<br/><br/>
+### 🌱 VigorTerra — *AI Platform for Smart Agriculture*
+Precision-agriculture platform for Tunisian farmers that predicts crop yield, disease risk, and land productivity. Correlates soil, climate, and historical agricultural data from sources such as **INM, FAOSTAT, and Open-Meteo**, with real-time diagnostics via a REST API and interactive dashboard.
+> **Stack:** Python · scikit-learn · XGBoost · FastAPI · React · Docker · MLflow · Pandas
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=140&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+### ⚡ Wizard World — *Full-stack Companion & E-commerce Platform*
+Full-stack digital companion and e-commerce platform for Harry Potter fans, featuring an **AI agent powered by the Grok API**. Complete website experience — shop, articles, sign-in/account creation, and in-site games — with a custom Hogwarts-themed design and improved security and UX.
+> **Stack:** Python · Django REST Framework · React.js · PostgreSQL · Grok API
+
+### 🎮 Console-Based Hangman Game — *Classic Game in Java*
+Single-player console implementation of Hangman with full game logic — input validation, state tracking, and error handling.
+> **Stack:** Java · OOP · CLI
 
 ---
 
-<sub>Made with passion & precision by Mohamed Raed Bouhali · 2026</sub>
+## 📜 Certifications
 
-</div>
+| Certification | Date |
+|---|---|
+| onSET English Certificate — B2 | 10/06/2026 |
+| INE Certified Cloud Associate (ICCA) | 08/05/2026 |
+| Red Hat Certified Specialist in Containers (EX188) | 07/04/2026 |
+| PCAP™ — Certified Associate Python Programmer | 27/01/2026 |
+| Red Hat Certified System Administrator (RHCSA) | 16/07/2025 |
+| AWS Certified AI Practitioner, Data Engineer & ML Specialty | *In Progress* |
+| PL-300 · EJDS INE | *In Progress* |
+
+---
+
+## 💼 Experience
+
+- **EY (Ernst & Young)** — *Data Science & AI Intern* · 2026
+- **VMD** — *DevOps Intern* · 2025
+- **Progress Engineering** — *Full-Stack Intern* · 2025
+- **ALL Circuits** — *Intern* · 2024
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedraedbouhali&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraedbouhali&layout=compact&hide_border=true&theme=default" alt="Top languages">
+</p>
+
+---
+
+<p align="center"><i>Open to end-of-study internship (PFE) opportunities in AI — 6 months, starting January 2027.</i></p>
