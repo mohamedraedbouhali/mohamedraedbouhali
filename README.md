@@ -1,7 +1,4 @@
 <!-- ===== ANIMATED HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E5E8C&height=200&section=header&text=Mohamed%20Raed%20Bouhali&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Student%20%40%20TEK-UP%20University&descAlignY=55&descSize=18&animation=fadeIn" alt="header"/>
-</p>
 
 <!-- ===== TYPING SUBTITLE ===== -->
 <p align="center">
