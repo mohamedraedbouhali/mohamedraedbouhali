@@ -119,13 +119,6 @@ Single-player console implementation of Hangman with full game logic — input v
 ---
 
 
-<!-- ===== ANIMATED CONTRIBUTION SNAKE (needs the snake.yml workflow below) ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedraedbouhali/mohamedraedbouhali/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5E8C,100:1F3A5F&height=120&section=footer&text=Open%20to%20AI%20PFE%20Internships%20%E2%80%94%206%20months%2C%20Jan%202027&fontSize=16&fontColor=ffffff&fontAlignY=70" alt="footer"/>
 </p>
