@@ -118,20 +118,6 @@ Single-player console implementation of Hangman with full game logic — input v
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedraedbouhali&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraedbouhali&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedraedbouhali&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedraedbouhali&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
-</p>
 
 <!-- ===== ANIMATED CONTRIBUTION SNAKE (needs the snake.yml workflow below) ===== -->
 <p align="center">
