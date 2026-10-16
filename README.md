@@ -1,20 +1,5 @@
 
 
-<!-- ===== SOCIAL BADGES ===== -->
-<p align="center">
-  <a href="https://bouhali-mohamed-raed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E5E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/bouhali-mohamed-raed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:raedbouhali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=mohamedraedbouhali&style=for-the-badge&color=1F3A5F&label=PROFILE+VIEWS" alt="views"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%20PFE%20Internship-2E8C5E?style=flat-square&logo=target&logoColor=white" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Duration-6%20months-1F3A5F?style=flat-square" alt="Duration"/>
-  <img src="https://img.shields.io/badge/Start-January%202027-2E5E8C?style=flat-square" alt="Start"/>
-  <img src="https://img.shields.io/badge/Location-Tunisia%20%7C%20Remote-555?style=flat-square" alt="Location"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
