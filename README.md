@@ -1,14 +1,4 @@
-<!-- ===== HERO BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E5E8C&height=240&section=header&text=Mohamed%20Raed%20Bouhali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner"/>
-</p>
 
-<!-- ===== TYPING SUBTITLE ===== -->
-<p align="center">
-  <a href="https://github.com/mohamedraedbouhali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E5E8C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%2B+Django;Machine+Learning+%26+RAG+Engineer;Vision-Language+OCR+%26+Document+Intelligence;DevOps+%2B+Cloud+%7C+Docker%2C+AWS%2C+Azure;Red+Hat+%7C+PCAP+%7C+ICCA+Certified" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
