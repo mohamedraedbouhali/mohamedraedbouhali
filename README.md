@@ -1,4 +1,18 @@
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F3A5F,100:2E5E8C&height=220&section=header&text=Mohamed%20Raed%20Bouhali&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%26%20AI%20Engineer&descSize=20&descAlignY=62&animation=twinkling" alt="header"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=RAG+%C2%B7+Vision-Language+OCR+%C2%B7+Agentic+AI;Full-Stack+%C2%B7+DevOps+%C2%B7+Cloud;ISO%2FIEC+42001+%C2%B7+Responsible+AI;Looking+for+an+AI+PFE+%E2%80%94+6+months%2C+Jan+2027" alt="typing"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Hat-RHCSA%20%C2%B7%20EX188-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EY-Data%20Science%20%26%20AI-FFE600?style=for-the-badge&logo=ey&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PFE-Open%20to%20work-2E8C5E?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=mohamedraedbouhali&style=for-the-badge&color=2E5E8C&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
@@ -35,9 +49,17 @@ I build clean, impactful, and scalable technology solutions.
 </tr>
 </table>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="./assets/tech-sphere.svg" width="720" alt="Rotating 3D tech stack sphere"/>
+</p>
+
+<p align="center"><sub>⬆️ Live 3D sphere — hover on GitHub to see it spin</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,php,js,html,css,sql&theme=dark" alt="Languages"/>
@@ -63,7 +85,9 @@ I build clean, impactful, and scalable technology solutions.
 
 </details>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 📊 GitHub Stats
 
@@ -76,7 +100,9 @@ I build clean, impactful, and scalable technology solutions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraedbouhali&hide_border=true&background=0D1117&stroke=2E5E8C&ring=2E5E8C&fire=2E5E8C&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak"/>
 </p>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 🚀 Featured Projects
 
@@ -105,7 +131,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,mongodb,opencv&theme=dark" alt="stack"/> ![Ollama](https://img.shields.io/badge/Ollama-Qwen3--VL-000?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-Llama%204%20Vision-F55036?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ### 🧠 EY Agentic RAG — *TdR Intelligence*
 
@@ -132,7 +160,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb&theme=dark" alt="stack"/> ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3%2070B-F55036?style=flat-square) ![bge-m3](https://img.shields.io/badge/BAAI-bge--m3-2E5E8C?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ### ⚖️ CSIS — *Criminal Study Intelligent System*
 
@@ -146,7 +176,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,react&theme=dark" alt="stack"/> ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square) ![JWT](https://img.shields.io/badge/JWT%20%2B%20bcrypt-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ### 🌱 VigorTerra — *AI Platform for Smart Agriculture*
 
@@ -158,7 +190,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,react,docker&theme=dark" alt="stack"/> ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ### ⚡ Wizard World — *Full-Stack Companion & E-commerce Platform*
 
@@ -170,7 +204,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=python,django,react,postgres&theme=dark" alt="stack"/> ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square) ![Grok](https://img.shields.io/badge/Grok%20API-000?style=flat-square)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ### 🎮 Console-Based Hangman — *Classic Game in Java*
 
@@ -178,7 +214,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="stack"/> ![OOP](https://img.shields.io/badge/OOP-2E5E8C?style=flat-square) ![CLI](https://img.shields.io/badge/CLI-1F3A5F?style=flat-square)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 📜 Certifications
 
@@ -211,7 +249,9 @@ timeline
          : AWS AIF · DEA · MLA (In Progress)
 ```
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 💼 Experience
 
@@ -231,7 +271,9 @@ timeline
 | **2025** | **Progress Engineering** | Full-Stack Intern | Web application development |
 | **2024** | **ALL Circuits** | Intern | — |
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 🎯 Focus Areas
 
@@ -255,7 +297,9 @@ mindmap
       Responsible AI
 ```
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2E5E8C,100:0D1117&height=2" width="100%"/>
+
 
 ## 📫 Let's Connect
 
@@ -269,5 +313,5 @@ mindmap
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5E8C,100:1F3A5F&height=140&section=footer&text=Open%20to%20AI%20PFE%20Internships%20%E2%80%94%206%20months%2C%20Jan%202027&fontSize=17&fontColor=ffffff&fontAlignY=65" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F3A5F,100:2E5E8C&height=160&animation=fadeIn&section=footer&text=Open%20to%20AI%20PFE%20Internships%20%E2%80%94%206%20months%2C%20Jan%202027&fontSize=17&fontColor=ffffff&fontAlignY=65" alt="footer"/>
 </p>
